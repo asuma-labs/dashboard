@@ -1,0 +1,6 @@
+{
+  "name": "Asuma MD Bot Dashboard",
+  "description": "Production-ready dashboard for Asuma MD WhatsApp Bot.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
